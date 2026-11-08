@@ -78,20 +78,17 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="profile details" />
+<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="86%" alt="profile details" />
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats" />
-<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="repos per language" />
+<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/profile-summary-card-output/tokyonight/3-stats.svg" width="32%" alt="stats" />
+<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="32%" alt="repos per language" />
+<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="32%" alt="productive time" />
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="70%" alt="productive time" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=creatememori&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=FBBF24&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=C9D1D9" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=creatememori&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=FBBF24&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=C9D1D9" width="44%" alt="streak" />
 
 </div>
 
@@ -101,19 +98,19 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/metrics.svg" width="100%" alt="metrics overview" />
+<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/metrics.svg" width="64%" alt="metrics overview" />
 
 <br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/creatememori/creatememori/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/creatememori/creatememori/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/creatememori/creatememori/output/github-snake.svg" width="100%" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/creatememori/creatememori/output/github-snake.svg" width="76%" />
 </picture>
 
 <br /><br />
 
-<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
+<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/profile-3d-contrib/profile-night-rainbow.svg" width="72%" alt="3D contribution graph" />
 
 </div>
 
