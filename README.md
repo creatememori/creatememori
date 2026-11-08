@@ -98,19 +98,16 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/metrics.svg" width="64%" alt="metrics overview" />
+<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/metrics.svg" width="47%" alt="metrics overview" />
+<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/profile-3d-contrib/profile-night-rainbow.svg" width="49%" alt="3D contribution graph" />
 
 <br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/creatememori/creatememori/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/creatememori/creatememori/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/creatememori/creatememori/output/github-snake.svg" width="76%" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/creatememori/creatememori/output/github-snake.svg" width="74%" />
 </picture>
-
-<br /><br />
-
-<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/profile-3d-contrib/profile-night-rainbow.svg" width="72%" alt="3D contribution graph" />
 
 </div>
 
