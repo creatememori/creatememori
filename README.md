@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="./assets/banner.png" alt="Creatememori — builder of small, sharp tools" width="100%" />
+<img src="./assets/banner.png" alt="Creatememori — small, sharp tools" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=780&lines=Build+small.+Build+sharp.+Ship+it.;AI+skills+that+argue+back+%2F+%E4%BC%9A%E5%8F%8D%E9%A9%B3%E7%9A%84+AI+%E6%8A%80%E8%83%BD;Front-end+that+fits+in+one+file+%2F+%E8%83%BD%E5%A1%9E%E8%BF%9B%E4%B8%80%E4%B8%AA%E6%96%87%E4%BB%B6%E7%9A%84%E5%89%8D%E7%AB%AF;Open+source%2C+MIT%2C+no+lock-in." alt="Typing SVG" />
@@ -26,8 +26,8 @@
 | | |
 | :-- | :-- |
 | 🧩 **现在在做** | 维护 [**Devil's Counsel**](https://github.com/creatememori/devils-counsel)：把 AI 从「什么都夸」改造成「先替你死一次」的批判性顾问技能（22 个分析模块 / 8 种强度模式 / 红队与 Pre-mortem 内置） |
-| 🎬 **另一个作品** | [**知影录 · Tv**](https://github.com/creatememori/zhiyinglu-tv)：纯前端影视聚合 SPA，35 个内置源、线路预检、PWA 离线壳，一个 `index.html` 背后没有任何服务器 |
-| 🌱 **在学** | 提示工程、红队方法论、决策科学、如何让模型在压力下仍然说实话 |
+| 🎬 **另一个作品** | [**知影录 · Tv**](https://github.com/creatememori/zhiyinglu-tv)：纯前端影视聚合 SPA，35 个内置源、线路预检、PWA 离线壳，一个 index.html 背后没有任何服务器 |
+| 🌱 **在学** | 提示工程、红队方法论、决策科学，以及怎么让模型在压力下仍然说实话 |
 | 💬 **可以问我** | 怎么让 AI 不再复读「你说得对」；怎么把 SPA 做得不像模板；Vite / PWA / Cloudflare Worker 的野路子 |
 | 🎯 **长期目标** | 做十个「一个人也能维护十年」的开源小工具 |
 | 📫 **找我** | GitHub Issues，或 QQ 群 **661816585** |
@@ -36,21 +36,19 @@
 
 ## 🛠 我在造什么 / What I'm Building
 
-<table align="center" border="0" cellspacing="0" cellpadding="8">
+<table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/creatememori/devils-counsel">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=creatememori&repo=devils-counsel&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=FBBF24&text_color=C9D1D9" width="100%" alt="Devil's Counsel" />
+        <img src="./assets/card-devils-counsel.png" width="100%" alt="Devil's Counsel" />
       </a>
-      <br />
-      <sub><b>会反驳你的 AI 顾问</b><br />Steelman → 红队 → Pre-mortem → 只给一件事</sub>
+      <br /><sub>会反驳你的 AI 顾问 · <b>把方案先在会议室里杀死一遍</b></sub>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/creatememori/zhiyinglu-tv">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=creatememori&repo=zhiyinglu-tv&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=FBBF24&text_color=C9D1D9" width="100%" alt="Zhiyinglu TV" />
+        <img src="./assets/card-zhiyinglu-tv.png" width="100%" alt="Zhiyinglu TV" />
       </a>
-      <br />
-      <sub><b>一个文件装下的影视聚合</b><br />多源并行搜索 · 线路预检 · 断网也能开</sub>
+      <br /><sub>一个文件装下的影视聚合 · <b>35 个源并行，零后端</b></sub>
     </td>
   </tr>
 </table>
@@ -64,14 +62,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/No%20Backend-2ea043?style=flat-square" />
-  <img src="https://img.shields.io/badge/MIT-fbbf24?style=flat-square&logo=opensourceinitiative&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="js" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="vite" />
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="pwa" />
+  <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="workers" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="markdown" />
+  <img src="https://img.shields.io/badge/No%20Backend-2ea043?style=flat-square" alt="no backend" />
+  <img src="https://img.shields.io/badge/MIT-fbbf24?style=flat-square&logo=opensourceinitiative&logoColor=black" alt="mit" />
 </p>
 
 ---
@@ -80,16 +78,20 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=creatememori&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=FBBF24&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=creatememori&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="top languages" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=creatememori&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=FBBF24&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=C9D1D9" alt="streak" />
+<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="profile details" />
 
 <br /><br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=creatememori&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats" />
+<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="repos per language" />
+
+<br /><br />
+
+<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="70%" alt="productive time" />
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com?user=creatememori&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=FBBF24&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=C9D1D9" alt="streak" />
 
 </div>
 
@@ -99,7 +101,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=creatememori&bg_color=0D1117&color=A78BFA&line=FBBF24&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="activity graph" />
+<img src="https://raw.githubusercontent.com/creatememori/creatememori/main/metrics.svg" width="100%" alt="metrics overview" />
 
 <br /><br />
 
@@ -115,7 +117,7 @@
 
 </div>
 
-> ⏳ 上面两张图由仓库内的 GitHub Actions 每 12 小时自动重绘：贪吃蛇吃的是你的提交，3D 图柱子越高，说明那天越晚睡。
+> ⏳ 上面的图都是这个仓库里的 GitHub Actions 自己画的：贪吃蛇吃的是我的提交，3D 图柱子越高说明那天越晚睡，指标卡每 6 小时重画一次。
 
 ---
 
@@ -123,7 +125,7 @@
 
 > [!TIP]
 > **一、先证明会死，再谈怎么活。**
-> 任何方案先过一遍「它怎么失败」，失败模式想不出来，不是因为它稳，是因为你想得不够狠。
+> 任何方案先过一遍「它怎么失败」。失败模式想不出来，不是因为它稳，是因为你想得不够狠。
 
 > [!NOTE]
 > **二、小到可以重写，才配叫自己的。**
@@ -146,7 +148,7 @@
 ## ☕ 支持 / Support
 
 <p align="center">
-  如果这些小工具帮你省下了一个下午，可以请我喝杯咖啡 —— 也可以只是点个 Star，那同样有用。
+  如果这些小工具帮你省下了一个下午，可以请我喝杯咖啡 —— 或者只是点个 Star，那同样有用。
 </p>
 
 <p align="center">
